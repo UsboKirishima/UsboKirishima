@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://cdn.hovia.com/app/uploads/Red-Illustrated-Landscape-Sunset-Wallpaper-Mural-plain.jpg)
+
 
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
