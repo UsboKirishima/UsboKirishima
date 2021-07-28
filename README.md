@@ -7,7 +7,7 @@
 
 Hi, I'm Davide, I live in Italy and I'm a simple electronics student.\
 I love program Softwares and AI using Typescript and C#.\
-I am experimenting recently a programming language called Elixir.\
+I am experimenting recently a programming language called C.\
 My goal is to work for multinational companies in the IT sector.\
 My dream is to become an entrepreneur of a large IT company like microsoft.\
 now I am developing a powerful and complex discord bot called Niki using Typescript.
