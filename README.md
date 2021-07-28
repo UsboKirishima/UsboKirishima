@@ -6,7 +6,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 Hi, I'm Davide, I live in Italy and I'm a simple electronics student.\
-I love program Software and AI using Typescript and C#.\
+I love program Softwares and AI using Typescript and C#.\
 I am experimenting recently a programming language called Elixir.\
 My goal is to work for multinational companies in the IT sector.\
 My dream is to become an entrepreneur of a large IT company like microsoft.\
