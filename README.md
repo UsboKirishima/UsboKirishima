@@ -2,7 +2,7 @@
 
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
-
+<div align="center">
 ### 👨🏻‍💻 &nbsp;About Me
 
 Hi, I'm Davide, I live in Italy and I'm a simple electronics student.\
@@ -15,3 +15,7 @@ now I am developing a powerful and complex discord bot called Niki using Typescr
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
 
 
+### &nbsp;Stats
+![stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+  
+</div>
