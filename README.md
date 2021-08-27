@@ -13,10 +13,11 @@ My goal is to work for multinational companies in the IT sector.\
 My dream is to become an entrepreneur of a large IT company like microsoft.\
 now I am developing a powerful and complex discord bot called Niki using Typescript.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
+<!--<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>-->
 
 
 ### Stats
 ![stats](https://github-readme-stats.vercel.app/api?username=UsboKirishima)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UsboKirishima)
   
 </div>
