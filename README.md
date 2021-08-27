@@ -17,6 +17,6 @@ now I am developing a powerful and complex discord bot called Niki using Typescr
 
 
 ### Stats
-![stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![stats](https://github-readme-stats.vercel.app/api?username=UsboKirishima)
   
 </div>
