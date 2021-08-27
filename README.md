@@ -3,6 +3,7 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 <div align="center">
+  
 ### 👨🏻‍💻 About Me
 
 Hi, I'm Davide, I live in Italy and I'm a simple electronics student.\
