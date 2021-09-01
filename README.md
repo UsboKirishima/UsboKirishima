@@ -1,24 +1,21 @@
-
-
-
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 <div align="center">
   
-### 👨🏻‍💻 About Me
-
-Hi, I'm Davide, I live in Italy and I'm a simple electronics student.\
-I love program Softwares and AI using Typescript and C#.\
-I am experimenting recently a programming language called C.\
-My goal is to work for multinational companies in the IT sector.\
-My dream is to become an entrepreneur of a large IT company like microsoft.\
-now I am developing a powerful and complex discord bot called Niki using Typescript.
-
-<!--<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>-->
-
-
-### Stats
-![stats](https://github-readme-stats.vercel.app/api?username=UsboKirishima&show_icons=true&theme=radical)\
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UsboKirishima&langs_count=8)
-
+  ## **Hello** 👋
   
+  Hi, I'm Davide or Usbo, I'm a random guy from Italy 🇮🇹.\
+  I'm a Freelance Developer.\
+  I use C, C++, C#, Rust, TS & HolyC.\
+  I study Robotics & Computer Science at high school.\
+  If you want meet me join in my [Discord](https://discord.gg/yKFZArAyY9)
+  
+  ## **Tools**
+  
+  - OS: Arch Linux btw
+  - DE: xfce
+  - IDEs/TextEditors: Visual Studio Code, Clion & Monodevelop
+  - Languages: C, C++, C#, Rust, TypeScript & HolyC
+  - Compilers: gcc, g++, cargo, TempleOS, dotnet-sdk
+  - Web Frameworks: express.js & react.js
+  - Database: MnogDB, Mongoose, SQLite3
+
 </div>
