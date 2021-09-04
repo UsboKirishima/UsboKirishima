@@ -23,6 +23,6 @@
   - Languages: C, C++, C#, Rust, TypeScript & HolyC
   - Compilers: gcc, g++, cargo, TempleOS, dotnet-sdk
   - Web Frameworks: express.js & react.js
-  - Database: MnogDB, Mongoose, SQLite3
+  - Database: MongoDB, Mongoose, SQLite3
 
 </div>
