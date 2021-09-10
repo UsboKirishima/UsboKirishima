@@ -18,7 +18,7 @@
   </div>
   
   - OS: Arch Linux btw
-  - DE: xfce
+  - DE: i3 + plasma
   - IDEs/TextEditors: Visual Studio Code, Clion & Monodevelop
   - Languages: C, C++, C#, Rust, TypeScript & HolyC
   - Compilers: gcc, g++, cargo, TempleOS, dotnet-sdk
