@@ -7,7 +7,7 @@
    I'm a Freelance Developer.\
    I use C, C++, C#, Rust, TS & HolyC.\
    I study Robotics & Computer Science at high school.\
-   If you want meet me join in my [Discord](https://discord.gg/yKFZArAyY9)
+   If you want to meet me join in my [Discord](https://discord.gg/yKFZArAyY9)
   
   </div>
   
