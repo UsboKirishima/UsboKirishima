@@ -13,7 +13,7 @@ WM:         i3
 Shell:      zsh 5.8
 Terminal:   alacritty
 Alias:      usbo/dave
-Pronouns:   she/they
+Pronouns:   he/him
 Languages:  Javascript, Typescript, Rust, C, C++
 Discord:    usbo#8613
 Website:    usberti.github.io
