@@ -1,21 +1,22 @@
 ```zsh
-> neofetch
+usbo@usbo ~ $ neofetch
 ```
 
-<img align="left" src="https://images-ext-1.discordapp.net/external/pFA_R3qHP5wJN0xbZ1mRSPMXFvE_NMmfOvULAweQNm4/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/848463685374443530/d695ed3e8662145a535839f98a12a004.png?width=258&height=258" alt="logo.png" width="200" />
+<!-- <img align="left" src="https://images-ext-1.discordapp.net/external/pFA_R3qHP5wJN0xbZ1mRSPMXFvE_NMmfOvULAweQNm4/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/848463685374443530/d695ed3e8662145a535839f98a12a004.png?width=258&height=258" alt="logo.png" width="200" /> -->
 
 ```csharp
-usbo@usbo
-------------------------------
-OS:         Arch Linux x86_64
-WM:         i3
-Shell:      zsh 5.8
-Terminal:   alacritty
-Alias:      usbo/dave
-Pronouns:   he/him
-Languages:  Javascript, Typescript, Rust, Pascal, C, C++
-Discord:    usbo#8613
-Website:    usberti.github.io
+   ▄██████▄     usbo@usbo
+ ▄█▀████▀███▄   ~~~~~~~~~
+ █▄▄███▄▄████   OS: Arch Linux 
+ ████████████   Kernel: 5.13.6-arch1-1
+ ██▀██▀▀██▀██   Packages: 1048 (pacman), 26 (snap)
+ ▀   ▀  ▀   ▀   Shell: bash
+   ▄██████▄     WM: i3
+ ▄█▀████▀███▄   CPU: Intel® Core™ i5‑8600K (4) @ 2.70GHz
+ █▄▄███▄▄████   GPU: NVIDIA GeForce RTX 2080 Super
+ ████████████   RAM: 1242MiB / 15258Mib
+ ██▀██▀▀██▀██   Resolution: 1920×1080
+ ▀   ▀  ▀   ▀   Song: Prendere o lasciare - Nashley
 ```
 
 <p align="left">
