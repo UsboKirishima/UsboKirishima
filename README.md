@@ -8,13 +8,13 @@
                   'o'                      usbo@usbo
                  'ooo'                     ---------
                 'ooxoo'                    OS: Artix Linux x86_64
-               'ooxxxoo'                   DE: Plasma 5.23.4
+               'ooxxxoo'                   DE: Plasma 
               'oookkxxoo'                  VM: KWin
-             'oiioxkkxxoo'                 Shell: zsh 5.8
+             'oiioxkkxxoo'                 Shell: zsh 
             ':;:iiiioxxxoo'                Terminal: konsole
                `'.;::ioxxoo'               Alias: usbo/dave
-          '-.      `':;jiooo'              Pronouns: He/Him
-         'oooio-..     `'i:io'             Languages: Javascript, Typescript, Rust, C, C++
+          '-.      `':;jiooo'              Pronouns: he/him
+         'oooio-..     `'i:io'             Languages: Javascript, Typescript, Rust, C, Cpp
         'ooooxxxxoio:,.   `'-;'            Discord: usbo#8613
        'ooooxxxxxkkxoooIi:-.  `'           Website: usberti.github.io
       'ooooxxxxxkkkkxoiiiiiji'             Song: Chillin' - MadMan
