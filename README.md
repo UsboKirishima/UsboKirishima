@@ -14,7 +14,7 @@
             ':;:iiiioxxxoo'                Terminal: konsole
                `'.;::ioxxoo'               Alias: usbo/dave
           '-.      `':;jiooo'              Pronouns: He/Him
-         'oooio-..     `'i:io'             Languages: Javascript Typescript Rust C C++
+         'oooio-..     `'i:io'             Languages: Javascript, Typescript, Rust, C, C++
         'ooooxxxxoio:,.   `'-;'            Discord: usbo#8613
        'ooooxxxxxkkxoooIi:-.  `'           Website: usberti.github.io
       'ooooxxxxxkkkkxoiiiiiji'             Song: Chillin' - MadMan
