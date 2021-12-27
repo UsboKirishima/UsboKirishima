@@ -2,21 +2,28 @@
 > neofetch
 ```
 
- <img align="left" src="https://images-ext-1.discordapp.net/external/pFA_R3qHP5wJN0xbZ1mRSPMXFvE_NMmfOvULAweQNm4/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/848463685374443530/d695ed3e8662145a535839f98a12a004.png?width=258&height=258" alt="logo.png" width="200" /> 
+ 
 
 ```csharp
-
-usbo@dave
-------------------------------
-OS:         Arch Linux x86_64
-WM:         i3
-Shell:      zsh 5.8
-Terminal:   alacritty
-Alias:      usbo/dave
-Pronouns:   he/him
-Languages:  Javascript, Typescript, Rust, C, C++
-Discord:    usbo#8613
-Website:    usberti.github.io
+                  'o'                      usbo@usbo
+                 'ooo'                     ---------
+                'ooxoo'                    OS: Artix Linux x86_64
+               'ooxxxoo'                   DE: Plasma 5.23.4
+              'oookkxxoo'                  VM: KWin
+             'oiioxkkxxoo'                 Shell: zsh 5.8
+            ':;:iiiioxxxoo'                Terminal: konsole
+               `'.;::ioxxoo'               Alias: usbo/dave
+          '-.      `':;jiooo'              Pronouns: He/Him
+         'oooio-..     `'i:io'             Languages: Javascript, Typescript, Rust, C, C++
+        'ooooxxxxoio:,.   `'-;'            Discord: usbo#8613
+       'ooooxxxxxkkxoooIi:-.  `'           Website: usberti.github.io
+      'ooooxxxxxkkkkxoiiiiiji'             Song: Chillin' - MadMan
+     'ooooxxxxxkxxoiiii:'`     .i'
+    'ooooxxxxxoi:::'`       .;ioxo'
+   'ooooxooi::'`         .:iiixkxxo'
+  'ooooi:'`                `'';ioxxo'
+ 'i:'`                          '':io'
+'`                                   `'
 ```
 
 <p align="left">
