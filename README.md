@@ -17,7 +17,7 @@
          'oooio-..     `'i:io'             Languages: Javascript, Typescript, Rust, C, Cpp
         'ooooxxxxoio:,.   `'-;'            Discord: usbo#8613
        'ooooxxxxxkkxoooIi:-.  `'           Website: usberti.github.io
-      'ooooxxxxxkkkkxoiiiiiji'             Song: Chillin' - MadMan
+      'ooooxxxxxkkkkxoiiiiiji'             Song: Chillin' madman
      'ooooxxxxxkxxoiiii:'`     .i'
     'ooooxxxxxoi:::'`       .;ioxo'
    'ooooxooi::'`         .:iiixkxxo'
