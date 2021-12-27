@@ -4,7 +4,7 @@
 
  
 
-```cs
+```csharp
                   'o'                      usbo@usbo
                  'ooo'                     ---------
                 'ooxoo'                    OS: Artix Linux x86_64
