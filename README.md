@@ -19,7 +19,7 @@ And obviously **I REALLY LIKE PIZZA**🍕
 - Database that I know **![MongoDB](https://img.shields.io/badge/-MongoDB-black?&logo=mongodb)** **![Sqlite3](https://img.shields.io/badge/-SQLite3-black?&logo=sqlite)**
 - Desktop application development using **![ElectronJS](https://img.shields.io/badge/-Electron-black?&logo=electron)** **![OpenGL](https://img.shields.io/badge/-OpenGL-black?&logo=opengl)**
 - Project Management and CD/CI using **![Github](https://img.shields.io/badge/-Github-black?&logo=github) ![Git](https://img.shields.io/badge/-Git-black?&logo=git)**
-- Favourite Languages **![Typescript](https://img.shields.io/badge/-Typescript-black?&logo=typescript)** **![C](https://img.shields.io/badge/-C-black?&logo=c)** **![C++](https://img.shields.io/badge/-C++-black?&logo=cpp)** **![Java](https://img.shields.io/badge/-Java-black?&logo=java)** **![Vala](https://img.shields.io/badge/-Vala-black?&logo=vala)** **![Html](https://img.shields.io/badge/-html-black?&logo=html)** **![Css](https://img.shields.io/badge/-css-black?&logo=css3)**
+- Favourite Languages **![Typescript](https://img.shields.io/badge/-Typescript-black?&logo=typescript)** **![C](https://img.shields.io/badge/-C-black?&logo=c)** **![C++](https://img.shields.io/badge/-C++-black?&logo=cplusplus)** **![Java](https://img.shields.io/badge/-Java-black?&logo=java)** **![Vala](https://img.shields.io/badge/-Vala-black?&logo=vala)** **![Html](https://img.shields.io/badge/-html-black?&logo=html)** **![Css](https://img.shields.io/badge/-css-black?&logo=css3)**
 - Currently Learning **![Java](https://img.shields.io/badge/-Java-black?&logo=java)** **![Nest](https://img.shields.io/badge/-Nest.js-black?&logo=nestjs)**
 
 ## 📬 Pretty socials
