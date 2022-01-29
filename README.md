@@ -30,4 +30,4 @@ And obviously **I REALLY LIKE PIZZA**🍕
 
 ![neofetch](https://media.discordapp.net/attachments/595315481846743042/936939960047648778/unknown.png?width=523&height=277)
 <br><br><br>
-_Inspired from [Bl4ckDestinyXX](https://github.com/BlackdestinyXX/)_
+_Inspired by [Bl4ckDestinyXX](https://github.com/BlackdestinyXX/)_
