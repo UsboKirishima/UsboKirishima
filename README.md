@@ -28,6 +28,6 @@ And obviously **I REALLY LIKE PIZZA**🍕
 
 ## 👁️ Neofetch
 
-[!neofetch](https://ibb.co/D9JK1QJ)
+![neofetch](https://ibb.co/D9JK1QJ)
 <br><br><br>
 _Inspired from [Bl4ckDestinyXX](https://github.com/BlackdestinyXX/)_
