@@ -27,8 +27,9 @@ And obviously **I REALLY LIKE PIZZA**🍕
 - Discord: usbo#8613
 - Mail: usbertibox@gmail.com
 
-## 👁️ Neofetch
+## 👁️ Arch Linux
 
 ![neofetch](https://media.discordapp.net/attachments/595315481846743042/936939960047648778/unknown.png?width=523&height=277)
+![desktop](https://media.discordapp.net/attachments/869975179386839101/937121792626147349/unknown.png?width=562&height=316)
 <br><br><br>
 _Inspired by [Bl4ckDestinyXX](https://github.com/BlackdestinyXX/)_
