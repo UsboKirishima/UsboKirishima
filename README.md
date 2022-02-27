@@ -1,8 +1,8 @@
 # Usbo Kirishima ;)
 
-👑 Founder & Developer of @Squola  
-👑 Founder & Manager of [Undercover Ita](https://github.com/Undercover-ita)<br>
-💻 Back-end Developer of [NodeMod](https://github.com/NodeMod) | [nodemod.org](https://nodemod.org)<br>
+👑 Founder & Developer of [@Squola](https://github.com/Squola)<br>
+👑 Founder & Manager of [@Undercover Ita](https://github.com/Undercover-ita)<br>
+💻 Back-end Developer of [@NodeMod](https://github.com/NodeMod) | [nodemod.org](https://nodemod.org)<br>
 👮 Bot manager of [primebots.it](https://primebots.it)<br>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/848463685374443530)](https://discord.com/users/848463685374443530)
