@@ -31,6 +31,6 @@ And obviously **I REALLY LIKE PIZZA**🍕
 - Mail: usbertibox@gmail.com
 
 ## 👁️ Arch Linux
-[!desktop](https://archcraft.io/images/bspwm/tiles.gif)
+![desktop](https://archcraft.io/images/bspwm/tiles.gif)
 <br><br><br>
 _Inspired by [Bl4ckDestinyXX](https://github.com/BlackdestinyXX/)_
