@@ -5,7 +5,7 @@
 💻 Back-end Developer of [@NodeMod](https://github.com/NodeMod) | [nodemod.org](https://nodemod.org)<br>
 👮 Bot manager of [primebots.it](https://primebots.it)<br>
 
-![Discord Presence](https://lanyard.cnrad.dev/api/848463685374443530)(https://discord.com/users/848463685374443530)
+[![Discord Presence](https://lanyard.cnrad.dev/api/848463685374443530)](https://discord.com/users/848463685374443530)
 
 ## 🔍 About me
 
