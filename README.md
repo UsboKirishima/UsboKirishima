@@ -1,5 +1,4 @@
-# Usbo Kirishima ;)
-
+# Usbo Kirishima 🥀
 👑 Founder & Developer of [@Squola](https://github.com/Squola)<br>
 👑 Founder & Manager of [@Undercover Ita](https://github.com/Undercover-ita)<br>
 💻 Back-end Developer of [@NodeMod](https://github.com/NodeMod) | [nodemod.org](https://nodemod.org)<br>
