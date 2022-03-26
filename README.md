@@ -8,10 +8,10 @@
 ## 🔍 About me
 
 Hi I'm usbo, just a random developer & Arch Linux expert from Italy<br>
-I like to code website, cli application and apis.<br>
+I like to code websites, terminal applications and API's.<br>
 I like to think that I've spent half of my life founding a multinational software house <br>
 I like nature and mountain biking and skiing <br>
-And obviously **I REALLY LIKE PIZZA**🍕
+And obviously I REALLY LIKE PIZZA🍕
 
 ## ⚡ Skills
 
