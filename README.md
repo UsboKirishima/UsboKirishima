@@ -26,7 +26,7 @@ And obviously I REALLY LIKE PIZZA🍕
 ## 📬 Pretty socials
 
 - Discord: usbo#8613
-- Mail: usbertibox@gmail.com
+- Mail: info@usbokirishima.ninja
 
 ## 👁️ Arch Linux
 ![desktop](https://archcraft.io/images/bspwm/tiles.gif)
