@@ -26,6 +26,7 @@ And obviously I REALLY LIKE PIZZA🍕
 ## 📬 Pretty socials
 
 - Discord: usbo#8613
+- Server Discord: https://dsc.lol/novembrecompany
 - Mail: info@usbokirishima.ninja
 
 ## 👁️ Arch Linux
