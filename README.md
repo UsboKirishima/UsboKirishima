@@ -1,5 +1,4 @@
 # Usbo Kirishima 🥀
-👑 Founder & Manager of [@November Company](https://github.com/novembercompany)<br>
 💻 Back-end Developer of [@NodeMod](https://github.com/NodeMod) | [nodemod.org](https://nodemod.org)<br>
 👮 Bot manager of [primebots.it](https://primebots.it)<br>
 
