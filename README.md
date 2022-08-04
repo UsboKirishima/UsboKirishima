@@ -1,16 +1,16 @@
 # Usbo Kirishima 🥀
-💻 Back-end Developer of [@NodeMod](https://github.com/NodeMod) | [nodemod.org](https://nodemod.org)<br>
-👮 Bot manager of [primebots.it](https://primebots.it)<br>
+💻 Back-end Developer from [@NodeMod](https://github.com/NodeMod) | [nodemod.org](https://nodemod.org)<br>
+👮 Bot manager from [primebots.it](https://primebots.it)<br>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/848463685374443530)](https://discord.com/users/848463685374443530)
 
 ## 🔍 About me
 
-Hi I'm usbo, just a random developer & Arch Linux expert from Italy<br>
-I like to code websites, terminal applications and API's.<br>
-I like to think that I've spent half of my life founding a multinational software house <br>
-I like nature and mountain biking and skiing <br>
-And obviously I REALLY LIKE PIZZA🍕
+Hi I'm usbo, a random developer from Italy<br/>
+I'm learning the backend developing using NestJS<br/>
+I also know low level programming with C and C++<br/>
+I'm currently learning Rust programming language<br/>
+I'll move to Switzerland after the school to work how backend developer<br/>
 
 ## ⚡ Skills
 
@@ -24,11 +24,9 @@ And obviously I REALLY LIKE PIZZA🍕
 
 ## 📬 Pretty socials
 
-- Discord: usbo#8613
-- Server Discord: https://dsc.lol/novembrecompany
-- Mail: info@usbokirishima.ninja
+- Discord: usbo#6969
+- Server Discord: https://discord.gg/t7Hdz7sQkV
+- Mail: usbertibox@gmail.com
 
 ## 👁️ Arch Linux
-![desktop](https://archcraft.io/images/bspwm/tiles.gif)
-<br><br><br>
-_Inspired by [Bl4ckDestinyXX](https://github.com/BlackdestinyXX/)_
+![desktop](https://media.discordapp.net/attachments/993385089041969225/1004040810129522829/unknown.png)
