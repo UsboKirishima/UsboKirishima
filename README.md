@@ -27,6 +27,3 @@ I'll move to Switzerland after the school to work how backend developer<br/>
 - Discord: usbo#6969
 - Server Discord: https://discord.gg/t7Hdz7sQkV
 - Mail: usbertibox@gmail.com
-
-## 👁️ Arch Linux
-![desktop](https://media.discordapp.net/attachments/993385089041969225/1004040810129522829/unknown.png)
