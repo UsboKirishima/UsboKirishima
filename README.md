@@ -1,6 +1,6 @@
 # Usbo Kirishima 🥀
-👮 Bot manager from [primebots.it](https://primebots.it)<br>
-💻 Back-end Developer from [@NodeMod](https://github.com/NodeMod) | [nodemod.org](https://nodemod.org)<br>
+👮 Bot manager at [primebots.it](https://primebots.it)<br>
+💻 Back-end Developer at [@NodeMod](https://github.com/NodeMod) | [nodemod.org](https://nodemod.org)<br>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/848463685374443530)](https://discord.com/users/848463685374443530)
 
