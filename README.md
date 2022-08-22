@@ -6,12 +6,11 @@
 
 ## 🔍 About me
 
-Hi I'm usbo, a random developer from Italy.<br/>
+Hi I'm usbo, a random developer.<br/>
 I'm learning the backend developing using Elixir.<br/>
 I also know the low level programming with C and C++.<br/>
 I'm currently learning Rust programming language.<br/>
 A Free Software Foundation enthusiast, love to Stallman<br/>
-I'll move to Switzerland after the school to work as backend developer.<br/>
 
 
 ## 📬 Pretty socials
