@@ -8,10 +8,10 @@
 
 Hi I'm usbo, a random developer from Italy.<br/>
 I'm learning the backend developing using Elixir.<br/>
-I also know low level programming with C and C++.<br/>
+I also know the low level programming with C and C++.<br/>
 I'm currently learning Rust programming language.<br/>
-Need dev tool? I'm ready with rust!.<br/>
-I'll move to Switzerland after the school to work how backend developer.<br/>
+A Free Software Foundation enthusiast, love to Stallman<br/>
+I'll move to Switzerland after the school to work as backend developer.<br/>
 
 
 ## 📬 Pretty socials
