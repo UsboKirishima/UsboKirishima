@@ -1,21 +1,18 @@
-# Usbo Kirishima 🥀
-👮 Bot manager at [primebots.it](https://primebots.it)<br>
-💻 Back-end Developer at [@NodeMod](https://github.com/NodeMod) | [nodemod.org](https://nodemod.org)<br>
+# Usbo Kirishima 🍇
+
+Also known as usbo, West Parma programmer UsboKirishima (born Davide Usberti) started coding little automated softwares in 2019, in recent years he has taken part in the Italian scene collaborating on many projects. After a long period of non-stop coding he stopped contributing to any project for 8 months for various events that occurred in his life.
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/848463685374443530)](https://discord.com/users/848463685374443530)
 
-## 🔍 About me
+[davideusberti.me status: closed](https://davideusberti.me)
 
-Hi I'm usbo, a random developer.<br/>
-I'm learning the backend developing using Elixir.<br/>
-I also know the low level programming with C and C++.<br/>
-I'm currently learning Rust programming language.<br/>
-A Free Software Foundation enthusiast, love to Stallman<br/>
+[spotify](https://open.spotify.com/user/r6zgsygw4x6fvx1qj24jvy9ef?si=2bff1bc748d64f72)
 
+## Music Playlists 💜
 
-## 📬 Pretty socials
+🥤☂️👿🔮
 
-- Discord: usbo#6969
-- Server Discord: https://discord.gg/t7Hdz7sQkV
-- Mail: usbertibox@gmail.com
-- Website: [davideusberti.me](https://davideusberti.me/) | [usbokirishima.ninja](https://usbokirishima.ninja)
+Purple Drank - [[Listen now]](https://open.spotify.com/playlist/0uPV1U7WF8jMDT2GAsoY3l?si=7596cfcb323e4930)
+Purple Drill - [[Listen now]](https://open.spotify.com/playlist/5ywx8qCuqQa7pc3IokVxzE?si=466567cb5ac24ff7) 
+Purple Rage  - [[Listen now]](https://open.spotify.com/playlist/52oolDQWhIBeHS6ndCSE0j?si=6be148c7aa074a0f)
+4.00am       - [[Listen now]](https://open.spotify.com/playlist/3waErf4KMA3iVDEzfemTPn?si=5e7f17be84674447)
