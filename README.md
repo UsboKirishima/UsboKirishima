@@ -2,9 +2,7 @@
 
 Also known as usbo, West Parma programmer UsboKirishima (born Davide Usberti) started coding little automated softwares in 2019, in recent years he has taken part in the Italian scene collaborating on many projects. After a long period of non-stop coding he stopped contributing to any project for 8 months for various events that occurred in his life.
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/848463685374443530)](https://discord.com/users/848463685374443530)
-
-[davideusberti.me](https://davideusberti.me)
+[davideusberti.me](https://davideusberti.me)<br/>
 [spotify](https://open.spotify.com/user/r6zgsygw4x6fvx1qj24jvy9ef?si=2bff1bc748d64f72)
 
 ## Music Playlists 💜
