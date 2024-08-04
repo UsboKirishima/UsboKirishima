@@ -1,6 +1,6 @@
 # Usbo Kirishima 🍇
 
-Also known as usbo, Parma programmer UsboKirishima (born Davide Usberti) started coding softwares in 2019, in recent years he has learned some skills in web development, cybersecurity and GNU/Linux environments. He took part in important cybersecurity teams such as [Havce](https://github.com/havce) (University of Parma) and [CodeVinci](https://github.com/code-vinci) (1st position in the [CodeVinciCTF-2024](https://github.com/code-vinci/CodeVinciCTF-2024))
+Also known as usbo, Parma programmer UsboKirishima (born Davide Usberti) started coding softwares in 2019, in recent years he has learned some skills in web development, cybersecurity and GNU/Linux environments.
 
 [333revenge.art](https://333revenge.art)<br/>
 [spotify](https://open.spotify.com/user/r6zgsygw4x6fvx1qj24jvy9ef?si=2bff1bc748d64f72)
