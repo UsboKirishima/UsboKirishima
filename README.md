@@ -8,8 +8,8 @@ Davide Usberti, known in the digital world as 333revenge or UsboKirishima, is a 
 - [UsboKirishima/333revenge.art](https://github.com/UsboKirishima/333revenge.art) - My personal website portfolio
 - [UsboKirishima/lutherblissett](https://github.com/UsboKirishima/lutherblissett) - Luther Blissett - Remote Administration Tool for the Linux kernel
 - [UsboKirishima/krokodil](https://github.com/UsboKirishima/krokodil) - The most advanced graphical discord nuker made for bot testers
-- [UsboKirishima/blove](https://github.com/UsboKirishima/blove) - Blove is a powerful nsfw search engine.
-- [UsboKirishima/TerminalHub](https://github.com/UsboKirishima/TerminalHub) - Pornhub searching framework. (e.g. terminal, discord bot)
+- [UsboKirishima/blove](https://github.com/UsboKirishima/blove) - Blove is a powerful search engine.
+- [UsboKirishima/TerminalHub](https://github.com/UsboKirishima/TerminalHub) - Searching framework. (e.g. terminal, discord bot)
 - [UsboKirishima/fusb](https://github.com/UsboKirishima/fusb) - FIXED USB MANAGER CLI
 - [UsboKirishima/ecobrains.it](https://github.com/UsboKirishima/ecobrains.it) - Official EcoBrains website & dashboard
 - [UsboKirishima/scheduling](https://github.com/UsboKirishima/scheduling) - Evaluate Tw and Tr of processes in FCFS, SJF, RR
