@@ -7,6 +7,8 @@ Davide Usberti, known in the digital world as 333revenge or UsboKirishima, is a 
 
 **OOP Programming**: Java, C#, Typescript
 
+**Scripting**: Bash, Zsh, Python3
+
 **Web frameworks**: Node.js, Next.js, Express.js, Svelte, tRPC, Prisma
 
 ... more on my website
