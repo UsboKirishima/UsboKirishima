@@ -1,11 +1,15 @@
-# UsboKirishima 🍇
+# usbo
 
-Davide Usberti, known in the digital world as 333revenge or UsboKirishima, is a promising Italian developer and hacker. Born and raised in Parma, Davide has been passionately immersed in the world of technology and cybersecurity from a young age. Currently, he is pursuing his studies in computer science at the Istituto Tecnico Industriale Leonardo da Vinci in Parma.
+Hello, I'm *Davide Usberti*, also known as *333revenge* or *usbo* — an Italian software developer and cybersecurity enthusiast.
 
-## Skills
-- **System Languages**: C, Rust, Assembly x86
-- **OOP Programming**: Java, C#, Typescript
-- **Scripting**: Bash, Zsh, Python3
-- **Web frameworks**: Node.js, Next.js, Express.js, Svelte, tRPC, Prisma
+With 7+ years of experience, I specialize in **system programming in C**, working with data structures, low-level memory, and networking via **sockets**. I'm also experienced as a **full-stack backend developer**, using technologies like **Node.js**, **Next.js**, **Prisma**, and **tRPC**.
 
-#### Visit my website [333revenge.art](https://333revenge-11r4a14js-usbokirishimas-projects.vercel.app)<br/>
+I enjoy building efficient tools, exploring how systems work under the hood, and developing reliable backend infrastructure.
+
+## projects
+
+- [**spongebot**](https://github.com/UsboKirishima/spongebot) — A C2 botnet created for research on DDoS attack techniques.
+- [**tung**](https://github.com/UsboKirishima/tung) — Command-line tool designed for testing custom firewall behavior.
+- [**0 (zero)**](https://github.com/UsboKirishima/0) — Kernel and user-space keylogger with socket-based communication.
+- [**pwds**](https://github.com/UsboKirishima/pwds) — A GTK4 password manager with AES-256 encryption.
+- [**wimey**](https://github.com/UsboKirishima/wimey) — C library for parsing command-line arguments and commands.
