@@ -7,7 +7,7 @@ With 7+ years of experience, I specialize in **system programming in C**, workin
 
 I enjoy building efficient tools, exploring how systems work under the hood, and developing reliable backend infrastructure.
 
-[[Website]](https://usbo.tech/) [[Discord](https://discord.com/users/926182366853079150)] [[Telegram](https://t.me/dynamicdecember)] [[Email](mailto:usbokirishima@gmail.com)]
+[[Website](https://usbo.tech/)] [[Discord](https://discord.com/users/926182366853079150)] [[Telegram](https://t.me/dynamicdecember)] [[Email](mailto:usbokirishima@gmail.com)]
 ## projects
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20" align="center"/> [**spongebot**](https://github.com/UsboKirishima/spongebot) — A C2 botnet created for research on DDoS attack techniques.
