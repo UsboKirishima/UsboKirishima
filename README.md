@@ -1,5 +1,6 @@
 # usbo
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=UsboKirishima&label=Profile%20views&color=000000&style=flat" alt="usbo" /> </p> -->
+![gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ZhdHU0ZjJ1azRiYjQ5dnp4aTB4OWFpZnU4YXJ5NnczMnJ6dzB3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PFxZeiDeHJTrkMjRVT/giphy.gif)
 
 Hello, I'm *Davide Usberti*, also known as *333revenge* or *usbo* an Italian software developer and cybersecurity enthusiast.
 With 7+ years of experience, I specialize in **system programming in C**, working with data structures, low-level memory, and networking via **sockets**. I'm also experienced as a **full-stack backend developer**, using technologies like **Node.js**, **Next.js**, **Prisma**, and **tRPC**.
